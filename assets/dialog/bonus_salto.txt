@@ -1,0 +1,2 @@
+You unlocked the electrical salto.&When you double jump, you can now hit the enemy with
+&your double jump.

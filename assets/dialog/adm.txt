@@ -1,0 +1,8 @@
+Hello there.&Something clearly went wrong here.
+You will need to arm yourself first if you want to live&Thankfully you will be able to find some weaponery
+while looking for clues or survivors.&Missiles should be enough for now. You will find some
+right below the cockpit at the top of the east wing.&Make haste.
+#While you were away your ship caught sign of survivors on the radar.&Head north and get some infos out of them.
+#...&You got new orders.&Redirect the station's trajectory towards the planet.&This will cost us a planet, but we
+can't let this thing loose.&You will need access to the cockpit, the lead scientist's
+room was at the tip of the west wing, you might find a way there.#Now go to the cockpit and crash this station.#RRRRRRRRRUUUUUUUUUUUUUUUUUUUUUUNNNNNNNNNNN!!

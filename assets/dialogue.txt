@@ -1,0 +1,104 @@
+intro:
+"You embark on a journey to the PLACE_HOLDER station to investigate the reason why the main hub lost contact with it a week ago.
+When you finally arrive you find it in a pityful state. It still looks functional but clearly something went wrong.
+Your admiral will keep you updated on the mission as you uncover the truth."
+
+ADMIRAL:
+"Let's look around and see how compromised this place is."
+
+6: ADMIRAL:
+"Seems like some specimens got out. We didn't see anybody either. The comms room is at the top of the east elevator, you might find more infos there."
+
+10: HARAMBE:
+"Il vous faudra un tir plus puissant que ca."
+10: PLAYER:
+"Thank God I speak animal."
+
+6: ADMIRAL:
+"Such creature should never have been left out of there confinement unit. This couldn't happen due to an accident, we would have been alerted before losing contact.
+You need to find out more about what happened here, go to the north elevator, i detected a human lifeform there on your ship's radar."
+
+10: HARAMBE: (freed)
+"C'est pas trop tot, pour nous garder enfermer dans nos cages sans voir le soleil ni pouvoir faire du sport et venir nous injecter des nano-machines dans le corps
+y'a du monde mais dès que ca part en couilles ya plus personne !
+ON EST PLUS EN 2021 QUAND MEME !
+Je sais pas vous mais moi je vais me barricader"
+
+PNJ: HARAMBE:
+"Comment ca 'ingrat' ? Jte file un truc si tu vas chercher mon pote pendant que je reste planqué."
+-->OUI
+-->NON
+
+PNJ: HARAMBE:
+"C'est à toi le vaisseau un eu plus loin ?
+Nan rien il a l'air sympa."
+
+6: ADMIRAL:
+"WTF was that ?! Seems like it was originaly a crewmate since it echoed on the radar.
+....
+You received new orders. Looks you didn't board a simple research station, you now need to redirect its orbit to crash onto the nearby planet.
+This will blow up the planet too but we can't afford to have this thing survive.
+for that you will need a key card to acces the cockpit. It's quite far but but there should be one at the top of the west wing.
+Make Haste."
+
+PNJ: BEURRE:
+"Hello !
+Tiens pour les services.
+...
+Vous pensiez vraiment pouvoir contenir ce genre de personnage avec ci peu de moyens ?
+COMMENT CA QUI ?
+T'as qu'à aller voir dans le congelateur ce que tes potes manigancaient ici."
+
+PNJ: BEURRE:
+"OUI.
+oui, oui. C'est lui. Le chroniqueur dans la grande emission sur Azur TV. Damsweb.
+Donc maintenant qu'on sait tous qu'on est dans la merde, qu'est -ce qu'on fait ?"
+
+6: ADMIRAL:
+"You can't afford to laze around, now that you have the key the cockpit should be right above the comms room.
+You should also be ready to run once the course is set.
+Good Luck."
+
+PNJ: BEURRE:
+"Toi t'as tue Damsweb ?
+Ouai c'est ca. Moi j'ai eu 100% au Antman.
+Bah oui mais tu dis des trucs pas realisables, moi aussi."
+
+6:"ADMIRAL:
+"RUUUUUUUUUUUUUUUUUUUUUUUUUNN !!"
+
+OUTRO HARAMBE not saved:
+"You take off as the station crashes behind your ship. Your admiral doesn't even congratulate you, as this was a defeat.
+Losing to the greed of science. You did not even look for survivors, just blindly following orders, you might have missed so many oportunities.
+Thus you return to the HQ with a bitter taste in your mouth.
+...
+loser..."
+
+OUTRO HARAMBE saved:
+"As you arrive to the deck, you find it empty.
+Where did it go ? Where is your ship ?
+With your last chance to survive gone, in your last moments, you wonder.
+How could it disappear ? No signs of it getting destroyed, the deck was secured.
+Did someone betray you ? Who ?
+Your admiral, whose words you always trusted blindly ?
+Or some higher-ups ?
+You will never know, as it ends here.
+...
+As your time runs out it hits you:
+'Fucking animal took it !'
+...
+Those were your last words."
+
+OUTRO DAMSWEB slain:
+"You take off as the station crashes behind your ship.
+It's over.
+You won ?
+'Oui'
+You hear behind you, horrified.
+You know it takes 3 days to get back to HQ, and you can't bring yourself to end them.
+...
+No you can't you just saved them !
+In the end you won, but it will cost you a great price.
+Such is the fate of heroes.
+...
+'on peut s'arreter en chemin, j'en ai marre d'etre enferme'"

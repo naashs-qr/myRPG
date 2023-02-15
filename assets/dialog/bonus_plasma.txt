@@ -1,0 +1,2 @@
+You unlocked the PLasma Beam.&This type of Beam is more powerfull than the charge beam.
+&You can now use the left and right arrow &for switch the type of your beam.

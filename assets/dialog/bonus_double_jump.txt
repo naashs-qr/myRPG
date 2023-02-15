@@ -1,0 +1,2 @@
+You unlocked the double jump.&When you jump, you can now press Space another time,
+&for use the double jump.

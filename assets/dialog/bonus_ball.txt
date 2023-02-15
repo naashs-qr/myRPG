@@ -1,0 +1,2 @@
+You unlocked the ball mode.&Press C for become a ball,
+&You can also throw the bomb with the shoot input.

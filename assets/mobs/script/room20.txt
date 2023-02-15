@@ -1,0 +1,1 @@
+type=3 grav=0 life=100 damg=9 defs=9 sped=12 posy=8 posx=20 recx=80 recy=58 hitx=160 hity=116 anm1=2 anm2=4 anm3=5 vani=9 scal=2 anm4=2

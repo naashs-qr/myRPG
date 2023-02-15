@@ -1,0 +1,15 @@
+.I..........I..........I
+..SSSSSSSSSSSSSSSSSSSSSSS
+..SSSSSSSSSSSSSSSSSSSSSSS
+.ISRRRRRR.........RRRRRRSI
+..SRRR...............RRRS
+..SR...................RS
+.IS.....................SS
+SG.......................GS
+ST.......................TS
+SI.......................IS
+.SSSSSSSSSSSSSSSSSSSSSSSSS
+..SSSSSSSSSSSSSSSSSSSSSSS
+..SSRRRRRRRRRRRRRRRRRRRSS
+.ISSSSSSSSSSSSSSSSSSSSSSSI
+..I.........I..........I

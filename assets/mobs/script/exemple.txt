@@ -1,0 +1,5 @@
+type=0 grav=1 life=150 damg=9 defs=9 sped=11 posy=4 posx=12 recx=148 recy=108 hitx=148 hity=104 anm1=4 anm2=7 anm3=0 vani=11 scal=1 anm4=0
+type=2 grav=1 life=50 damg=9 defs=9 sped=0 posy=7 posx=20 recx=300 recy=250 hitx=300 hity=250 anm1=1 anm2=4 anm3=4 vani=9 scal=1 anm4=1
+type=3 grav=0 life=100 damg=9 defs=9 sped=12 posy=7 posx=20 recx=80 recy=58 hitx=160 hity=116 anm1=2 anm2=4 anm3=5 vani=9 scal=2 anm4=2
+type=4 grav=1 life=120 damg=9 defs=9 sped=8 posy=7 posx=23 recx=58 recy=58 hitx=232 hity=210 anm1=4 anm2=8 anm3=11 vani=9 scal=4 anm4=5
+type=5 grav=1 life=120 damg=9 defs=9 sped=10 posy=2 posx=25 recx=70 recy=70 hitx=190 hity=190 anm1=11 anm2=4 anm3=15 vani=10 scal=3 anm4=9

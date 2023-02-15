@@ -1,0 +1,2 @@
+type=5 grav=1 life=120 damg=9 defs=9 sped=10 posy=9 posx=20 recx=70 recy=70 hitx=190 hity=190 anm1=11 anm2=4 anm3=15 vani=10 scal=3 anm4=9
+type=5 grav=1 life=120 damg=9 defs=9 sped=10 posy=9 posx=30 recx=70 recy=70 hitx=190 hity=190 anm1=11 anm2=4 anm3=15 vani=10 scal=3 anm4=9
